@@ -47,7 +47,7 @@ The dataset includes patient health records with the following features:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stroke-risk-prediction.git
+   git clone https://github.com/gauravroy061/stroke-risk-prediction.git
    cd stroke-risk-prediction
 
 
